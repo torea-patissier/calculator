@@ -1,0 +1,18 @@
+.calculator{
+width: 300px;
+padding: 30px;
+height: 200px;
+display: flex;
+}
+
+.buttonAndOperators{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Contenu{
+ background-color: #353535;
+ color: white;
+ border-radius: 1rem;
+}
